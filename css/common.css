@@ -1,0 +1,13 @@
+body{font-family: 'Noto Sans KR', 'Nanum Square','Nanum Gothic',sans-serif; color:#333;}
+
+.nanum_square{font-family:'Nanum Square';}
+.nanum_square_normal{font-weight:400}
+.nanum_square_bold{font-weight:700}
+.nanum_square_bolder{font-weight:800}
+.nanum_square_light{font-weight:300}
+.noto_sans{font-family:'Noto Sans KR'}
+
+a{color:#333; text-decoration: none;}
+.clearfix::after{content:''; display:block; clear: both;}
+button{margin:0; padding:0; background:none; border:none;}
+button:focus {outline:0;}
